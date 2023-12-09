@@ -4,7 +4,7 @@ The Web-based Student Clearance System in PHP Free Source Code  (It is an open s
 
 1. BUG_Author: Jing Xiong
 
-2. vendors: [Online College Library System using PHP/MySQLi Source Code](https://www.campcodes.com/downloads/online-college-library-system-using-php-mysqli-source-code/);
+2. vendors: [Online College Library System using PHP/MySQLi Source Code](https://www.campcodes.com/projects/php/librarysystemusingphp/);
 
 3. The program is built using the PHP/8.1.10 version;
 
