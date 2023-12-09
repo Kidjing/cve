@@ -1,6 +1,6 @@
 # Vulnerability Description
 
-The Web-based Student Clearance System in PHP Free Source Code  (It is an open source project from [https://www.sourcecodester.com/](https://www.sourcecodester.com/)) has xss injection vulnerabilities, which can lead to the execution of malicious code.
+The Web-based Student Clearance System in PHP Free Source Code  (It is an open source project from [https://www.campcodes.com/](https://www.campcodes.com/)) has xss injection vulnerabilities, which can lead to the execution of malicious code.
 
 1. BUG_Author: Jing Xiong
 
